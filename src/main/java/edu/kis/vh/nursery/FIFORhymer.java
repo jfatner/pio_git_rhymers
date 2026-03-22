@@ -8,7 +8,7 @@ public class FIFORhymer extends DefaultCountingOutRhymer {
     /**
      * Pomocnicza wyliczanka wykorzystywana do odwracania kolejnosci elementow.
      */
-    public DefaultCountingOutRhymer temp = new DefaultCountingOutRhymer();
+    private final DefaultCountingOutRhymer temp = new DefaultCountingOutRhymer();
 
     /**
      * Usuwa i zwraca najstarszy element z wyliczanki (zgodnie z zasada FIFO).
@@ -26,4 +26,9 @@ public class FIFORhymer extends DefaultCountingOutRhymer {
 
         return ret;
     }
+
+    public DefaultCountingOutRhymer getTemp() {
+        return temp;
+    }
+
 }
