@@ -7,9 +7,6 @@ realizowanych w ramach przedmiotu 'Podstawy Inżynierii Oprogramowania' prowadzo
 przez Instytut Informatyki Stosowanej dla studentów kierunku Informatyka 
 na wydziale Elektrotechniki, Elektroniki Informatyki i Automatyki Politechniki Łódzkiej.
 
-## materiały i dodatkowe informacje
+## wybrane materiały i dodatkowe informacje
 
-
-## ogólne zasady oceny pracy na laboratoriach
-
-- [WIKI projektu z opisem zadań oraz sposobu współpracy studentów w ich realizacji](https://github.com/iis-io-team/pio_git_rhymers/wiki)
+- [WIKI projektu z opisem dodatkowych zadań oraz sposobu realizacji pracy](https://github.com/iis-io-team/pio_git_rhymers/wiki)
