@@ -1,3 +1,5 @@
+// Przechodzi WSZYSTKIE testy jednostkowe poprawnie!
+
 package edu.kis.vh.nursery;
 
 public class DefaultCountingOutRhymer {
